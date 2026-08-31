@@ -111,10 +111,8 @@ https://njmsaikat.github.io/clock/
 > Contact With Developer:
 
 
-### Saikat Roy
+### jeetuyadav
 
-> Email: njmsaikat@gmail.com
+> Email: jeetu130706@gmail.com
 
-> Personal Portfolio: https://saikatroy.netlify.app/
 
-> Linked In Profile: https://www.linkedin.com/in/njmsaikat/
